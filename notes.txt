@@ -1,0 +1,24 @@
+Day3
+links
+images
+list
+attributes
+nav
+
+empty ---br, img, hr, input
+
+
+Day4
+Block and inline element
+div and span
+inline styles
+external styles
+
+
+
+
+
+three ways of styles
+-inline styling----<tagname style="text-align:"right";color:"red"></tagname>
+-internal styling
+-external styling
